@@ -33,14 +33,4 @@ window.onload = function() {
   }
 };
 
-// const matrixBuilder = (num) => {
-//   let matrix = []
-//   for (let i = 0; i < num; i++) {
-//       matrix.push([])
-//       for (let j = 0; j < num; j++) {
-//           matrix[i].push(getRandom())
-//       }
 
-//   }
-//   return matrix;
-// }
